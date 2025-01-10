@@ -43,24 +43,8 @@ The dataset is available on the [Kaggle Titanic page](https://www.kaggle.com/com
    git clone https://github.com/M-A-S1/Titanic-Survival-Prediction---Kaggle-Challenge.git
    cd titanic-survival
    ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-4. Open the `mas-titanic.ipynb` notebook and run all cells.
+2. Open the `mas-titanic.ipynb` notebook and run all cells.
 
-## Folder Structure
-```
-|-- mas-titanic.ipynb          # Main notebook
-|-- requirements.txt           # List of dependencies
-|-- data/                      # Dataset (train/test csv files)
-|-- models/                    # Saved models (if applicable)
-|-- README.md                  # Project documentation
-```
 
 ## Contact
 For any questions or collaborations, feel free to reach out:
