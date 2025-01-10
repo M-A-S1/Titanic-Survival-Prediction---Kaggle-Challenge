@@ -64,9 +64,7 @@ The dataset is available on the [Kaggle Titanic page](https://www.kaggle.com/com
 
 ## Contact
 For any questions or collaborations, feel free to reach out:
-- GitHub: [yourusername](https://github.com/yourusername)
-- Kaggle: [yourkaggleprofile](https://www.kaggle.com/yourkaggleprofile)
+- GitHub: https://github.com/M-A-S1
+- Kaggle: https://www.kaggle.com/siddiquialimas
 
-## License
-This project is licensed under the MIT License.
 
