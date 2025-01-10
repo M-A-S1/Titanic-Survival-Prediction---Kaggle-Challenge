@@ -40,7 +40,7 @@ The dataset is available on the [Kaggle Titanic page](https://www.kaggle.com/com
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/titanic-survival.git
+   git clone https://github.com/M-A-S1/Titanic-Survival-Prediction---Kaggle-Challenge.git
    cd titanic-survival
    ```
 2. Install dependencies:
